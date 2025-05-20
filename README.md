@@ -1,4 +1,4 @@
-# BuyBusy2 Scaffold
+# BuyBusy2 
 
 This project is a React application that demonstrates state management using **Redux Toolkit**.  
 Key Redux Toolkit features implemented in this project include:
